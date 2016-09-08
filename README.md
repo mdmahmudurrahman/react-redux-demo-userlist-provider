@@ -1,3 +1,8 @@
+
+## To run after clone => npm install  => npm start
+
+
+
 ![](http://i.imgur.com/DUiL9yn.png)
 
 # React/Sass/Redux Boilerplate
